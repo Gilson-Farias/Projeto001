@@ -11,9 +11,9 @@ class Conexao
         # Informações sobre o banco de dados:
 		$db_driver = "mysql"; 	# MySQL(mysql) , Postres(pgsql), Firebid(firebird), SQL Server(sqlsrv)
         $db_host = "localhost";
-        $db_nome = "PGI";           //Base de Dados
-        $db_usuario = "gilson";     //Usuário
-        $db_senha = "123Gabriel";   //Senha
+        $db_nome = "BaseDados";           //Base de Dados
+        $db_usuario = "usuario";     //Usuário
+        $db_senha = "senha";   //Senha
 		
         # Informações sobre o sistema:
         $sistema_titulo = "Projeto Bemol.";
